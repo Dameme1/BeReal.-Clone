@@ -28,18 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='RPReplay_Final1680216691.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='RPReplay_Final1680736077 (1).gif' title='Video Walkthrough' width='200' height='300' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
-<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
